@@ -2,6 +2,9 @@
 molssi-geometry-analysis.py
 This module contains the outcome of the MolSSI geometry analysis project
 Requires one command-line argument specifying an xyz file to analyze
+
+Author: Tim Kowalczyk
+Workshop Facilitators: Ashley McDonald, Jessica Nash
 """
 
 import numpy, os, sys
